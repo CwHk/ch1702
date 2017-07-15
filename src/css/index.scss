@@ -1,0 +1,9 @@
+$base-color: #00ffff;
+$color: red;
+
+body {
+	background: lighten($base-color,10%);
+	h3{
+		color: $color;
+	}
+}
