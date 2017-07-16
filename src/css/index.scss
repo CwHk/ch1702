@@ -55,15 +55,18 @@ body {
                             height: 18px;
                             width: 18px;
                             float: left;
-                            background: url(../image/单选绿圆_灰.svg) no-repeat center center;
+//                          background: url(../image/单选绿圆_灰.svg) no-repeat center center;
+                            background-image: url(../image/单选绿圆_灰.svg);
+                            background-repeat: no-repeat ;
+                            background-position: center;
                             background-size: 18px 18px;
                         }
-                        input:checked+label {
-                            background: url(../image/单选绿圆_亮.svg) no-repeat center center;
-                            background-size: 18px 18px;
-                            height: 18px;
-                            width: 18px;
-                        }
+//                      input:checked+label {
+//                          background: url(../image/单选绿圆_亮.svg) no-repeat center center;
+//                          background-size: 18px 18px;
+//                          height: 18px;
+//                          width: 18px;
+//                      }
                     }
                 }
                 .item-b {
@@ -209,6 +212,7 @@ body {
 }
 
 .kinds {
+    display: none;
     padding-top: 23px;
     padding-bottom: 205px;
     overflow: hidden;
