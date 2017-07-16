@@ -1,6 +1,252 @@
 
-.due_time{
-	height: 120px;
-	width: 700px;
+.content {
+    background: #fff;
+    width: 100%;
+    .content-left .detail-box>div{
+        width: 700px;
+        position: relative;
+        overflow: hidden;
+        span.com_span{
+            display: block;
+            position: absolute;
+            height: 16px;
+            line-height: 16px;
+            font-size: 14px;
+            em{
+                font-size: 12px;
+                height: 12px;
+                // padding-top: 4px;
+                margin-left: 10px;
+                color: #999;
+            }
+        }
+    }
+    .content-left {
+        width: 67.222222%;
+        background: #fff;
+        float: left;
+        .detail-box {
+            width: 795px;
+            padding-right: 95px;
+            box-sizing: border-box;
+            float: right;
+            margin-bottom: 75px;
+            .progressbar {
+                margin-top: 28px;
+                .c-bar {
+                    width: 100%;
+                    height: 16px;
+                    padding: 7px 0;
+                    position: relative;
+                    .yuan-l-small {
+                        position: absolute;
+                        height: 8px;
+                        width: 8px;
+                        background: #3CC8B4;
+                        border-radius: 100%;
+                        left: 0;
+                        top: 4px;
+                    }
+                    .yuan-h-small {
+                        position: absolute;
+                        height: 8px;
+                        width: 8px;
+                        background: #EEEEEE;
+                        border-radius: 100%;
+                        top: 4px;
+                    }
+                    .yuanhuione {
+                        left: 75%;
+                    }
+                    .yuanhuitwo {
+                        right: 0;
+                    }
+                    .yuan-l-large {
+                        position: absolute;
+                        height: 16px;
+                        width: 16px;
+                        background: #3CC8B4;
+                        border-radius: 100%;
+                        left: 25%;
+                        top: 0px;
+                    }
+                    .c-bar-hui50 {
+                        border: 1px solid #EEEEEE;
+                        position: absolute;
+                        width: 50%;
+                        right: 0;
+                        top: 7px;
+                    }
+                    .c-bar-kx {
+                        border: 1px solid #3CC8B4;
+                    }
+                }
+                .c-bartitle {
+                    margin-bottom: 33px;
+                    .qdtitle {
+                        font-size: 14px;
+                        line-height: 28px;
+                        color: #333333;
+                    }
+                    .preserve {
+                        height: 28px;
+                        width: 70px;
+                        line-height: 28px;
+                        float: right;
+                        padding-left: 32px;
+                        border-radius: 20px;
+                        box-shadow: 0 0 2px 1px #bdbdbd;
+                        background: url(../image/sure.png) no-repeat 9px center;
+                        background-size: 18px;
+                    }
+                }
+            }
+            .dueTime{
+                height: 120px;
+                border-bottom: 1px solid #979797;
+                .inputBox{
+                    height: 36px;
+                    width: 160px;
+                    margin-left: 270px;
+                    margin-top: 42px;
+                    input{
+                        height: 36px;
+                        width: 160px;
+                        border-radius: 4px;
+                        border: 1px solid #d9d9d9;
+                    }
+                }
+                span{
+                    top: 44px;
+                }
+            }
+            .taskName{
+                height: 90px;
+                border-bottom: 1px solid #979797;
+                input{
+                    height: 36px;
+                    width: 430px;
+                    border-radius: 2px;
+                    border: 1px solid #eaeaea;
+                    margin-left: 270px;
+                    margin-top: 27px;
+                    background: #f8f8f8;
+                    font-size: 14px;
+                    color: #a9a9a9;
+                    text-indent: 15px;
+                }
+                span{
+                    top: 27px;
+                }
+            }
+            .referWebsite{
+                height: 90px;
+                border-bottom: 1px solid #979797;
+                .inputBox{
+                    height: auto;
+                    width: 430px;
+                    overflow: hidden;
+                    margin-left: 270px;
+                    margin-top: 27px;
+                    input{
+                        height: 36px;
+                        width: 390px;
+                        float: left;
+                        border-radius: 2px;
+                        border: 1px solid #eaeaea;
+                        background: #f8f8f8;
+                        font-size: 14px;
+                        color: #a9a9a9;
+                        text-indent: 15px;
+                    }
+                    .inputBtn{
+                        float: left;
+                        height: 36px;
+                        width: 40px;
+                        background: #f8f8f8;
+                        border: 1px solid #eaeaea;
+                        border-left: none;
+                        color: #000;
+                        justify-content: center; /*子元素水平居中*/
+                        align-items: center; /*子元素垂直居中*/
+                        display: -webkit-flex;
+                    }
+                }
+                span{
+                    top: 27px;
+                }
+            }
+            .taskDescri{
+                height: 410px;
+                border-bottom: 1px solid #979797;
+                textarea{
+                    resize:none; 
+                    width:430px; 
+                    height:130px;
+                    max-width: 430px;
+                    max-height: 130px;
+                    margin-left: 270px;
+                    margin-top: 24px;
+                    background: #f8f8f8;
+                    border-radius: 2px;
+                    border-color: #eaeaea;
+                    font-size: 14px;
+                    color: #a9a9a9;
+                    text-indent: 15px;
+                }
+                .uploadBox{
+                    width:430px; 
+                    height:150px;
+                    margin-left: 270px;
+                    margin-top: 16px;
+                    background: #f8f8f8;
+                    border-radius: 8px;
+                    border: 2px dashed #eaeaea;
+                    font-size: 14px;
+                    color: #a9a9a9;
+                    justify-content: center; /*子元素水平居中*/
+                    align-items: center; /*子元素垂直居中*/
+                    display: -webkit-flex;
+                }
+                span{
+                    top: 24px;
+                }
+            }
+            .bottomLink{
+                height: 140px;
+                margin-top: 52px;
+                background: #fff;
+                align-items: center; /*子元素垂直居中*/
+                display: -webkit-flex;
+                span{
+                    float: left;
+                }
+                .pay{
+                    float: right;
+                    width: 120px;
+                    height: 40px;
+                    line-height: 40px;
+                    text-align: center;
+                    font-size: 14px;
+                    color: #fff;
+                    border-radius: 3px;
+                    border: 1px dashed #979797;
+                    background: #4d5775;
+                }
+            }
+        }
+    }
+    .content-right {
+        float: left;
+        width: 32.777778%;
+        background: #FAFAFA;
+        position: relative;
+        .sidebox {
+            margin-left: 40px;
+            width: 260px;
+            height: 200px;
+            margin-top: 115px;
+            background: #fff;
+        }
+    }
 }
-
