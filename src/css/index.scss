@@ -16,7 +16,8 @@ body {
 
 //content
 .content {
-    background: #fff;
+    overflow: hidden;
+    background: #FAFAFA;
     width: 100%;
     .content-left {
         width: 67.222222%;
@@ -37,7 +38,7 @@ body {
                 margin-bottom: 25px;
                 .only-s {
                     padding-bottom: 40px;
-                    border-bottom: 1px solid #979797;
+                    border-bottom: none;
                 }
                 .only-y {
                     margin-bottom: 18px;
@@ -197,6 +198,7 @@ body {
             height: 200px;
             margin-top: 115px;
             background: #fff;
+            box-shadow: 0 0 2px 1px #ececec;
             .side-title {
                 border-bottom: 1px solid #EEEEEE;
                 padding-left: 38px;
