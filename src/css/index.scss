@@ -17,11 +17,95 @@
         width: 67.222222%;
         background: #fff;
         float: left;
+        .detail-box {
+            width: 795px;
+            padding-right: 95px;
+            box-sizing: border-box;
+            float: right;
+            margin-bottom: 75px;
+            .progressbar {
+                margin-top: 28px;
+                .c-bar {
+                    width: 100%;
+                    height: 16px;
+                    padding: 7px 0;
+                    position: relative;
+                    .yuan-l-small {
+                        position: absolute;
+                        height: 8px;
+                        width: 8px;
+                        background: #3CC8B4;
+                        border-radius: 100%;
+                        left: 0;
+                        top: 4px;
+                    }
+                    .yuan-h-small {
+                        position: absolute;
+                        height: 8px;
+                        width: 8px;
+                        background: #EEEEEE;
+                        border-radius: 100%;
+                        top: 4px;
+                    }
+                    .yuanhuione {
+                        left: 75%;
+                    }
+                    .yuanhuitwo {
+                        right: 0;
+                    }
+                    .yuan-l-large {
+                        position: absolute;
+                        height: 16px;
+                        width: 16px;
+                        background: #3CC8B4;
+                        border-radius: 100%;
+                        left: 25%;
+                        top: 0px;
+                    }
+                    .c-bar-hui50 {
+                        border: 1px solid #EEEEEE;
+                        position: absolute;
+                        width: 50%;
+                        right: 0;
+                        top: 7px;
+                    }
+                    .c-bar-kx {
+                        border: 1px solid #3CC8B4;
+                    }
+                }
+                .c-bartitle {
+                    margin-bottom: 33px;
+                    .qdtitle {
+                        font-size: 14px;
+                        line-height: 28px;
+                        color: #333333;
+                    }
+                    .preserve {
+                        height: 28px;
+                        width: 70px;
+                        line-height: 28px;
+                        float: right;
+                        padding-left: 32px;
+                        border-radius: 20px;
+                        box-shadow: 0 0 2px 1px #bdbdbd;
+                        background: url(../image/sure.png) no-repeat 9px center;
+                        background-size: 18px;
+                    }
+                }
+            }
+        }
     }
     .content-right {
         float: left;
         width: 32.777778%;
         background: #FAFAFA;
         position: relative;
+        .sidebox {
+            margin-left: 40px;
+            width: 260px;
+            height: 200px;
+            margin-top: 115px;
+            background: #fff;
+        }
     }
 }
