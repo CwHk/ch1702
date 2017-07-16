@@ -216,10 +216,15 @@
     		    height: 140px;
     		    margin-top: 52px;
     		    background: #fff;
+    		    padding-top: 50px;
 //              align-items: center; /*子元素垂直居中*/
 //              display: -webkit-flex;
                 span{
-                    float: left;
+//                  float: left;
+                    line-height: 40px;
+                    padding-left: 20px;
+                    background: url(../image/返回.svg) no-repeat center left;
+                    background-size: 12px 12px;
                 }
                 .pay{
                     float: right;
@@ -230,7 +235,7 @@
                     font-size: 14px;
                     color: #fff;
                     border-radius: 3px;
-                    border: 1px dashed #979797;
+                    border: 1px solid #979797;
                     background: #4d5775;
                 }
     		}
