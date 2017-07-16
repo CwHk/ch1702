@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="47px" viewBox="0 0 90 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>PC端_黑</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M22,0.6 L82,0.6 L82,0.6 C84.209139,0.6 86,2.390861 86,4.6 L86,43.6 L18,43.6 L18,4.6 L18,4.6 C18,2.390861 19.790861,0.6 22,0.6 Z" id="path-1"></path>
+        <rect id="path-2" x="68" y="11" width="21" height="18"></rect>
+        <rect id="path-3" x="68" y="11" width="21" height="4"></rect>
+        <path d="M13.2,42.2 L90,42.2 L90,44.2173828 C90,44.2173828 89.4058594,45.5861328 88.546875,46.2461914 C87.6878906,46.90625 86.4342773,47 86.4342773,47 L16.9992187,47 C16.9992187,47 15.937793,46.9000977 14.7972656,46.2461914 C13.6567383,45.5922852 13.2,44.3963867 13.2,44.3963867 L13.2,42.2 Z" id="path-4"></path>
+        <path d="M43.8,42.2 L58.8,42.2 L58.8,43.4 C58.8,44.0627417 58.2661421,44.6 57.5978431,44.6 L45.0021569,44.6 C44.338224,44.6 43.8,44.0673622 43.8,43.4 L43.8,42.2 Z" id="path-5"></path>
+    </defs>
+    <g id="常规发布任务" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PC端" transform="translate(-23.000000, -38.000000)">
+            <g id="PC端_黑" transform="translate(23.000000, 38.000000)">
+                <rect id="Rectangle-34" stroke="#323A45" x="0.5" y="10.5" width="20" height="33"></rect>
+                <rect id="Rectangle-36" fill="#323A45" x="3" y="13.4" width="3.6" height="1"></rect>
+                <rect id="Rectangle-36" fill="#323A45" x="7.8" y="13.4" width="3" height="1"></rect>
+                <rect id="Rectangle-36" fill="#323A45" x="5.4" y="15.2" width="8.4" height="1"></rect>
+                <rect id="Rectangle-36" fill="#323A45" x="7.8" y="18.2" width="3.6" height="1"></rect>
+                <rect id="Rectangle-36" fill="#323A45" x="3.6" y="20.6" width="10.2" height="1"></rect>
+                <rect id="Rectangle-36" fill="#323A45" x="3.6" y="23" width="8.4" height="1"></rect>
+                <rect id="Rectangle-36" fill="#323A45" x="7.2" y="26" width="3.6" height="1"></rect>
+                <rect id="Rectangle-36" fill="#323A45" x="5.4" y="28.4" width="8.4" height="1"></rect>
+                <rect id="Rectangle-36" fill="#323A45" x="3.6" y="30.8" width="4.2" height="1"></rect>
+                <rect id="Rectangle-36" fill="#323A45" x="5.4" y="34.4" width="6" height="1"></rect>
+                <g id="Rectangle-5">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <path stroke="#323A45" stroke-width="1" d="M18.5,43.1 L85.5,43.1 L85.5,4.6 C85.5,2.66700338 83.9329966,1.1 82,1.1 L22,1.1 C20.0670034,1.1 18.5,2.66700338 18.5,4.6 L18.5,43.1 Z"></path>
+                </g>
+                <rect id="Rectangle-28" stroke="#323A45" x="20.5" y="5.5" width="63" height="34"></rect>
+                <g id="Rectangle-29">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <rect stroke="#323A45" stroke-width="1" x="68.5" y="11.5" width="20" height="17"></rect>
+                </g>
+                <path d="M72.7526912,20.0455844 L74.6455844,21.9384776 L74.6455844,20.0455844 L72.7526912,20.0455844 Z" id="Rectangle-31" stroke="#323A45" transform="translate(73.345584, 21.345584) rotate(45.000000) translate(-73.345584, -21.345584) "></path>
+                <g id="Rectangle-30">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <rect stroke="#323A45" stroke-width="1" x="68.5" y="11.5" width="20" height="3"></rect>
+                </g>
+                <circle id="Oval-12" fill="#323A45" cx="70.9" cy="13.1" r="1"></circle>
+                <circle id="Oval-12" fill="#323A45" cx="72.7" cy="13.1" r="1"></circle>
+                <circle id="Oval-12" fill="#323A45" cx="74.5" cy="13.1" r="1"></circle>
+                <circle id="Oval-11" fill="#323A45" cx="51.6" cy="3.6" r="1"></circle>
+                <g id="Rectangle-32">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <path stroke="#323A45" stroke-width="1" d="M13.7,42.7 L13.7,44.2948285 C13.7250746,44.3493475 13.7612985,44.4220408 13.80905,44.5084256 C13.9386003,44.7427885 14.1005805,44.9777258 14.2954829,45.1956184 C14.516985,45.4432483 14.7669923,45.6524851 15.0459588,45.8124268 C15.5039373,46.0750028 15.9830214,46.2617759 16.4524832,46.3845887 C16.7305929,46.4573431 16.938925,46.4921153 16.9992187,46.5 L86.3969896,46.5013923 C86.4691082,46.495999 86.6085368,46.4783718 86.791688,46.442606 C87.0982467,46.3827412 87.4040744,46.2935383 87.6847099,46.1711049 C87.8955691,46.0791128 88.0832206,45.9719033 88.2422222,45.8497236 C88.4656515,45.6780367 88.692644,45.4264258 88.9126715,45.1163707 C89.083136,44.8761581 89.238973,44.6161758 89.3758057,44.356003 C89.4277653,44.2572074 89.4694502,44.1731475 89.5,44.1087136 L89.5,42.7 L13.7,42.7 Z"></path>
+                </g>
+                <g id="Rectangle-33">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <path stroke="#323A45" stroke-width="1" d="M44.3,42.7 L44.3,43.4 C44.3,43.7891237 44.6122656,44.1 45.0021569,44.1 L57.5978431,44.1 C57.9884116,44.1 58.3,43.7881884 58.3,43.4 L58.3,42.7 L44.3,42.7 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

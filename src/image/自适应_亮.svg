@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="76px" height="59px" viewBox="0 0 76 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>自适应_亮</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M4,0 L66,0 L66,0 C68.209139,-4.05812251e-16 70,1.790861 70,4 L70,40 L0,40 L0,4 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="path-1"></path>
+        <path d="M23,53.6304348 C23,52.8020077 23.6688281,52.1304348 24.4912569,52.1304348 L47.5087431,52.1304348 C48.3323415,52.1304348 49,52.796232 49,53.6304348 L49,55.1304348 L23,55.1304348 L23,53.6304348 Z" id="path-2"></path>
+        <rect id="path-3" x="52" y="21" width="24" height="38" rx="2"></rect>
+        <rect id="path-4" x="54" y="25" width="20" height="28"></rect>
+    </defs>
+    <g id="常规发布任务" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="自适应" transform="translate(-30.000000, -31.000000)">
+            <g id="自适应_亮" transform="translate(30.000000, 31.000000)">
+                <path d="M29.8616673,44.5 L28.5860429,52.5 L44.4121481,52.5 L43.1115505,44.5 L29.8616673,44.5 Z" id="Rectangle-42" stroke="#3CC8B4"></path>
+                <g id="Rectangle-37">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <path stroke="#3CC8B4" stroke-width="1" d="M0.5,39.5 L69.5,39.5 L69.5,4 C69.5,2.06700338 67.9329966,0.5 66,0.5 L4,0.5 C2.06700338,0.5 0.5,2.06700338 0.5,4 L0.5,39.5 Z"></path>
+                </g>
+                <path d="M0.5,39.5 L0.5,42 C0.5,43.3783004 1.62374836,44.5 3.0078125,44.5 L66.9921875,44.5 C68.3843016,44.5 69.5,43.3844309 69.5,42 L69.5,39.5 L0.5,39.5 Z" id="Rectangle-38" stroke="#3CC8B4"></path>
+                <rect id="Rectangle-39" stroke="#3CC8B4" x="3.5" y="3.5" width="62" height="33" rx="2"></rect>
+                <g id="Rectangle-43">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <path stroke="#3CC8B4" stroke-width="1" d="M23.5,54.6304348 L48.5,54.6304348 L48.5,53.6304348 C48.5,53.0740135 48.0578307,52.6304348 47.5087431,52.6304348 L24.4912569,52.6304348 C23.9451619,52.6304348 23.5,53.0779642 23.5,53.6304348 L23.5,54.6304348 Z"></path>
+                </g>
+                <g id="Rectangle-44">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <rect stroke="#3CC8B4" stroke-width="1" x="52.5" y="21.5" width="23" height="37" rx="2"></rect>
+                </g>
+                <rect id="Rectangle-50" fill="#3CC8B4" x="61" y="23" width="6" height="1" rx="0.5"></rect>
+                <g id="Rectangle-45">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <rect stroke="#3CC8B4" stroke-width="1" x="54.5" y="25.5" width="19" height="27"></rect>
+                </g>
+                <rect id="Rectangle-46" stroke="#3CC8B4" x="57.5" y="28.5" width="13" height="15"></rect>
+                <rect id="Rectangle-47" fill="#3CC8B4" x="57" y="46" width="14" height="1"></rect>
+                <rect id="Rectangle-48" fill="#3CC8B4" x="57" y="49" width="11" height="1"></rect>
+                <circle id="Oval-13" fill="#3CC8B4" cx="64.5" cy="55.5" r="1.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
