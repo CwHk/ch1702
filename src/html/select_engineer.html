@@ -1,157 +1,229 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
+
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>任务</title>
-<meta name="keywords" content="" />
-<meta name="description" content="" />
-<meta content="zh-cn" http-equiv="content-language" />
-<meta content="" name="copyright" />
-<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
-<link rel="stylesheet" type="text/css" href="css/style.css" />
-<link rel="stylesheet" type="text/css" href="css/fill_taskdetails.css" />
-<script src="js/jquery-1.7.2.min.js" type="text/javascript"></script>
-<script src="js/fill_taskdetails.js" type="text/javascript"></script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>任务</title>
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <meta content="zh-cn" http-equiv="content-language" />
+    <meta content="" name="copyright" />
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <link rel="stylesheet" type="text/css" href="css/select_engineer.css" />
+    <script src="js/jquery-1.7.2.min.js" type="text/javascript"></script>
 </head>
+
 <body>
 
-<div class="wrap">
-	<div class="header">
-		<h1>
-			<a href="#"><img src="image/logo.svg" /></a>
-			<a href="#">
-			<strong>
+    <div class="wrap">
+        <div class="header">
+            <h1>
+                <a href="#"><img src="image/logo.svg" /></a>
+                <a href="#">
+                    <strong>
 				<i></i>
 				<span>任务</span>
 			</strong>
-			</a>
-		</h1>
-		<div class="task_menu">
-			<p>
-				<a href="#"><strong><i class="icon1"></i><span>任务集市</span></strong></a>
-				<a href="#"><strong><i class="icon2"></i><span>发布任务</span></strong></a>
-			</p>
-		</div>
-		<div class="header_right">
-			<div class="menu1">
-				<ul>
-					<li>
-						<a href="#">
-							<i class="icon1"></i><em>28</em>
-						</a>
-					</li>
-					<li>
-						<a href="#">
-							<i  class="icon2"></i>
-						</a>
-					</li>
-				</ul>
-			</div>
-			<div class="menu2">
-				<ul>
-					<li onmouseover="this.className='hover'" onMouseOut="this.className=''">
-						<a href="javascript:void(0)"><p><i>Rachel Curtis</i><strong><img src="image/user_pic.png" /></strong><span></span></p></a>
-						<div class="drop">
-							<dl>
-								<dt>
+                </a>
+            </h1>
+            <div class="task_menu">
+                <p>
+                    <a href="#"><strong><i class="icon1"></i><span>任务集市</span></strong></a>
+                    <a href="#"><strong><i class="icon2"></i><span>发布任务</span></strong></a>
+                </p>
+            </div>
+            <div class="header_right">
+                <div class="menu1">
+                    <ul>
+                        <li>
+                            <a href="#">
+                                <i class="icon1"></i><em>28</em>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="icon2"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="menu2">
+                    <ul>
+                        <li onmouseover="this.className='hover'" onMouseOut="this.className=''">
+                            <a href="javascript:void(0)">
+                                <p><i>Rachel Curtis</i><strong><img src="image/user_pic.png" /></strong><span></span></p>
+                            </a>
+                            <div class="drop">
+                                <dl>
+                                    <dt>
 									<a href="#"><i class="icon1"></i><span>发布的</span></a>
 								</dt>
-								<dt class="line">
+                                    <dt class="line">
 									<a href="#"><i class="icon2"></i><span>参与的</span></a>
 								</dt>
-								<dt>
+                                    <dt>
 									<a href="#"><i class="icon3"></i><span>钱包</span></a>
 								</dt>
-								<dt class="line">
+                                    <dt class="line">
 									<a href="#"><i class="icon4"></i><span>个人资料</span></a>
 								</dt>
-								<dt>
+                                    <dt>
 									<a href="#"><i class="icon5"></i><span>退出</span></a>
 								</dt>
-							</dl>
-						</div>
-					</li>
-				</ul>
-			</div>
-		</div>
-	</div><div class="headerfixed"></div>
-	<!-- 内容区域 start  ---->
-	<div class="content">
-        <div class="content-left">
-        	<div class="detail-box">
-	            <!-- 进度条 start  -------->
-                <div class="progressbar">
-                    <div class="c-bartitle">
-                        <span class="qdtitle">前端开发</span>
-                        <span class="preserve">	保存</span>
-                    </div>
-                    <div class="c-bar">
-                        <div class="c-bar-kx"></div>
-                        <div class="c-bar-hui50"></div>
-                        <div class="yuan-l-small"></div>
-                        <div class="yuan-l-large"></div>
-                        <div class="yuan-h-small yuanhuione"></div>
-                        <div class="yuan-h-small yuanhuitwo"></div>
-                    </div>
+                                </dl>
+                            </div>
+                        </li>
+                    </ul>
                 </div>
-                <!-- 进度条 end  -------->
-				<div class="dueTime">
-					<div class="inputBox">
-						<input type="" name="" placeholder="年-月-日">
-					</div>
-					<span class="com_span">交付时间</span>
-				</div>
-				<div class="taskName">
-					<input type="" name="" placeholder="">
-					<span class="com_span">任务名称</span>
-				</div>
-				<div class="referWebsite">
-					<div class="inputBox">
-						<input type="" name="" placeholder="www.">
-						<div class="inputBtn">
-							<img src="image/add.svg"/>
-						</div>
-					</div>
-					<span class="com_span">动效参考网站<em>选填</em></span>
-				</div>
-				<div class="taskDescri">
-					<textarea name="任务描述"></textarea>
-					<div class="uploadBox">
-						
-					</div>
-					<ul>
-						<li>
-							<i></i>
-							<span>520宣传图.jpg</span>
-							<i></i>
-						</li>
-						<li>
-							<i></i>
-							<span>520宣传图.jpg</span>
-							<i></i>
-						</li>
-					</ul>
-					<span class="com_span">任务描述<em>选填</em></span>
-				</div>
-				<div class="bottomLink">
-					<span>
+            </div>
+        </div>
+        <div class="headerfixed"></div>
+        <!-- 内容区域 start  ---->
+        <div class="content">
+            <div class="content-left">
+                <div class="detail-box">
+                    <!-- 进度条 start  -------->
+                    <div class="progressbar">
+                        <div class="c-bartitle">
+                            <span class="qdtitle">前端开发</span>
+                            <span class="preserve">	保存</span>
+                        </div>
+                        <div class="c-bar">
+                            <div class="c-bar-kx"></div>
+                            <div class="c-bar-hui50"></div>
+                            <div class="yuan-l-small"></div>
+                            <div class="yuan-l-large"></div>
+                            <div class="yuan-h-small yuanhuione"></div>
+                            <div class="yuan-h-small yuanhuitwo"></div>
+                        </div>
+                    </div>
+                    <!-- 进度条 end  -------->
+                    <div class="content-section">
+                        <div class="table-s">
+                            <div class="tab-text">
+                                <div class="level-top">工程师等级</div>
+                                <div class="score">综合分</div>
+                                <div class="score">质保金</div>
+                                <div class="score">质保期</div>
+                                <div class="score">参考速度</div>
+                                <div class="score problem"></div>
+                            </div>
+                            <div class="tab-text tab-detail">
+                                <div class="level-top level-l">
+                                    <div class="img-box"><img src="" alt=""></div>
+                                    <div class="text">
+                                        <div class="text-top">
+                                            青铜
+                                        </div>
+                                        <div class="span">¥100元／<span>页起</span></div>
+                                    </div>
+                                </div>
+                                <div class="score">综合分</div>
+                                <div class="score">质保金</div>
+                                <div class="score">质保期</div>
+                                <div class="score">参考速度</div>
+                                <div class="score problem"></div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="bottomLink">
+                        <span>
 						<i></i>
 						返回
 					</span>
-					<div class="pay">
-						支付并开启
-					</div>
-				</div>
-			</div>
+                        <div class="pay">
+                            支付并开启
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="content-right">
+                <div class="sidebox">
+                    <div class="side-title">
+                        小贴士
+                    </div>
+                    <div class="side-text">
+                        <div class="tetx-top">
+                            为了保障任务质量，缩短时间需额外支付加急费
+                        </div>
+                    </div>
+                </div>
+                <div class="side-box-b">
+                    <div class="side-title">
+                        费用明细
+                    </div>
+                    <div class="side-text">
+                        <div class="dj-box">青铜级工程师</div>
+                    </div>
+                    <div class="moneylist">
+                        <div class="item">
+                            <div class="left">
+                                <span class="detail">首页</span>
+                                <span class="num">x2</span>
+                            </div>
+                            <div class="right">
+                                ¥135
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="left">
+                                <span class="detail">内容页</span>
+                                <span class="num">x5</span>
+                            </div>
+                            <div class="right">
+                                ¥1352
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="left">
+                                <span class="detail">长页面</span>
+                                <span class="num">x5</span>
+                            </div>
+                            <div class="right">
+                                ¥1352
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="left">
+                                <span class="detail">弹窗</span>
+                                <span class="num">x5</span>
+                            </div>
+                            <div class="right">
+                                ¥1352
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="left">
+                                <span class="detail">tab页</span>
+                                <span class="num">x5</span>
+                            </div>
+                            <div class="right">
+                                ¥1352
+                            </div>
+                        </div>
+                        <div class="item red">
+                            <div class="left reds">
+                                <span class="detail detailb">优惠</span>
+                            </div>
+                            <div class="right">
+                                ¥1352
+                            </div>
+                        </div>
+                    </div>
+                    <div class="all">
+                        <span>合计费用</span>
+                        <span class="money">¥123</span>
+                    </div>
+                </div>
+            </div>
         </div>
-        <div class="content-right">
-                          右边部分
-        </div>
+        <!-- 内容区域 end  -------->
     </div>
-	<!-- 内容区域 end  -------->
-</div>
-<div>
-	
-</div>
+    <div>
+
+    </div>
 </body>
+
 </html>
