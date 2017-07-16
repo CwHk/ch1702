@@ -114,6 +114,9 @@
                         width: 160px;
                         border-radius: 4px;
                         border: 1px solid #d9d9d9;
+                        background: #fff;
+                        text-indent: 12px;
+                        color: #333;
                     }
                 }
                 span {
@@ -411,6 +414,8 @@
     .right {
         width: 50%;
         float: left;
+        font-style: 14px;
+        color: #a3a3a3;
     }
     .right {
         text-align: right;
@@ -420,9 +425,10 @@
 .all {
     line-height: 50px;
     font-size: 12px;
+    color: #a3a3a3;
     .money {
         float: right;
-        font-size: 14px;
+        font-size: 16px;
         color: #FF6248;
     }
 }
@@ -459,8 +465,10 @@
             height: 36px;
             width: 430px;
             background: #f8f8f8;
-            border-radius: 4px;
+            border-radius: px;
             border: 1px solid #d9d9d9;
+            text-indent: 12px;
+            font-style: 14px;
         }
     }
 }

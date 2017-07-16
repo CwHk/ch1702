@@ -9,7 +9,15 @@ $(function(){
 		}else{
 			$(this).parents('.inputBox').remove();
 		}
-	});
+	});  
+	$(".pay").click(function(){
+		$('.mask').show();
+		$('.login_modal').show();
+	})
+	$("body .login_modal .comfirm").live("click",function(){
+		$('.mask').hide();
+		$('.login_modal').hide();
+	})
 })
  
  

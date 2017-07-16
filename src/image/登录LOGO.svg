@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>登录LOGO</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="40" cy="40" r="40"></circle>
+        <filter x="-18.8%" y="-18.8%" width="137.5%" height="137.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.881085247   0 0 0 0 0.881085247   0 0 0 0 0.881085247  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#63696D" offset="0%"></stop>
+            <stop stop-color="#16181C" offset="48.6354167%"></stop>
+            <stop stop-color="#5D686D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.7623565%" id="linearGradient-4">
+            <stop stop-color="#63696D" offset="0%"></stop>
+            <stop stop-color="#16181C" offset="48.6354167%"></stop>
+            <stop stop-color="#5D686D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="常规发布任务" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="前端_填写任务详情登录" transform="translate(-670.000000, -279.000000)">
+            <g id="Group-6" transform="translate(510.000000, 241.000000)">
+                <g id="登录LOGO" transform="translate(170.000000, 48.000000)">
+                    <g id="Oval-5">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="Group-6" transform="translate(21.000000, 21.000000)">
+                        <path d="M18.9332246,37.9298246 C8.47669341,37.9298246 0,29.4389441 0,18.9649123 C0,8.49088045 8.47669341,0 18.9332246,0 C29.3897559,0 37.8664493,8.49088045 37.8664493,18.9649123 C37.8664493,29.4389441 29.3897559,37.9298246 18.9332246,37.9298246 Z M18.8839839,35.6920768 C28.0758609,35.6920768 35.5273495,28.228117 35.5273495,19.020856 C35.5273495,9.81359495 28.0758609,2.34963515 18.8839839,2.34963515 C9.6921069,2.34963515 2.2406183,9.81359495 2.2406183,19.020856 C2.2406183,28.228117 9.6921069,35.6920768 18.8839839,35.6920768 Z" id="Combined-Shape" fill="#000000"></path>
+                        <path d="M18.9332246,2.37110584 C18.2361045,2.28310063 17.525674,2.23774776 16.8046373,2.23774776 C7.52369237,2.23774776 0,9.75180125 0,19.020856 C0,28.2899107 7.52369237,35.8039642 16.8046373,35.8039642 C17.525674,35.8039642 18.2361045,35.7586113 18.9332246,35.6706061 C10.6572466,34.6258376 4.25717477,27.5697977 4.25717477,19.020856 C4.25717477,10.4719143 10.6572466,3.41587439 18.9332246,2.37110584 Z" id="Combined-Shape" fill="url(#linearGradient-3)"></path>
+                        <path d="M18.9332246,35.6706061 C19.6303448,35.7586113 20.3407753,35.8039642 21.061812,35.8039642 C30.3427569,35.8039642 37.8664493,28.2899107 37.8664493,19.020856 C37.8664493,9.75180125 30.3427569,2.23774776 21.061812,2.23774776 C20.3407753,2.23774776 19.6303448,2.28310063 18.9332246,2.37110584 C27.2092027,3.41587439 33.6092745,10.4719143 33.6092745,19.020856 C33.6092745,27.5697977 27.2092027,34.6258376 18.9332246,35.6706061 Z" id="Combined-Shape" fill="url(#linearGradient-4)"></path>
+                        <ellipse id="Oval-3" fill="#000000" cx="41.7315159" cy="34.0697097" rx="3.86506657" ry="3.86011489"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
