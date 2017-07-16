@@ -1,7 +1,46 @@
-$base-color: #00ffff;
-$color: red;
+// $base-color: #00ffff;
+// $color: red;
 
-body {
-	background: lighten($base-color,10%);
-	
+// body {
+// 	background: lighten($base-color,10%);
+// }
+*{
+	-webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+//content
+.content{
+	background: #fff;
+	.process_bar{
+		width: 700px;
+		height: 150px;
+		color: red;
+		margin-left: 173px;
+	}
+	.dev_content{
+		width: 700px;
+		height: 200px;
+		padding: 25px 0 25px;
+		margin-left: 173px;
+		position: relative;
+		ul{
+			height: 150px;
+			margin-left: 270px;
+			overflow: hidden;
+			li{
+				float: left;
+				height: 135px;
+				width: 150px;
+
+			}
+		}
+		span{
+			display: block;
+			position: absolute;
+			top: 44px;
+			font-size: 14px;
+		}
+	}
 }
