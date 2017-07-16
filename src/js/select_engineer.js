@@ -1,12 +1,13 @@
 $(function(){
+	var numflag = 0;
 	$('.box-s .jian').click(function(){
 		var val = $(this).next().val();
-		num = val*1;
+		var num = val*1;
 		if(num){
-			return false
-		}else{
-			num--
+			num--;
 			$(this).next().val(num);
+		}else{
+			return false
 		}
 	});
 	$('.box-s .jia').click(function(){
@@ -21,8 +22,16 @@ $(function(){
 	    } else {
 	        $(this).addClass("checkboxed")
 	    }
-	    var flag = $(this).parents('.tab-detail').find('.score:last span').hasClass("checkboxed");
-	    if(flag){
+	    var flag = false;
+	    $(this).parents('.tab-detail').each(function(){
+	    	flag = $(this).find('.score:last span').hasClass("checkboxed");
+	    	if(flag){
+	    		numflag++
+	    	}else{
+	    		numflag--
+	    	}
+	    })
+	    if(numflag){
 	    	$('.bott-box').show();
 	    }else{
 	    	$('.bott-box').hide();
