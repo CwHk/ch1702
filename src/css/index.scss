@@ -76,12 +76,22 @@ body {
                     display: inline-block;
                     vertical-align: top;
                     border: 1px solid #D7E4EC;
+                    position: relative;
                     img {
                         display: block;
                     }
                     span {
                         display: block;
                         text-align: center;
+                    }
+                    i{
+                        width: 16px;
+                        height: 16px;
+                        display: none;
+                        background: url(../image/绿角勾.svg) no-repeat center center;
+                        position: absolute;
+                        right: 0;
+                        bottom: 0;
                     }
                     .phone {
                         margin: 36px auto 20px auto;
