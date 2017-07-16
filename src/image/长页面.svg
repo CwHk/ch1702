@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="25px" viewBox="0 0 20 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>长页面</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="20" height="25"></rect>
+        <rect id="path-2" x="0" y="4" width="20" height="9"></rect>
+        <rect id="path-3" x="0" y="12" width="20" height="5"></rect>
+        <rect id="path-4" x="0" y="16" width="20" height="5"></rect>
+        <rect id="path-5" x="0" y="20" width="20" height="5"></rect>
+        <rect id="path-6" x="0" y="0" width="20" height="5"></rect>
+    </defs>
+    <g id="常规发布任务" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="前端_选择工程师级别" transform="translate(-200.000000, -887.000000)">
+            <g id="页面类型" transform="translate(173.000000, 629.000000)">
+                <g id="Group-15" transform="translate(1.000000, 230.000000)">
+                    <g id="长页面" transform="translate(26.000000, 28.000000)">
+                        <g id="Rectangle-7">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <rect stroke="#272536" stroke-width="1" x="0.5" y="0.5" width="19" height="24"></rect>
+                        </g>
+                        <g id="Rectangle-14">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                            <rect stroke="#272536" stroke-width="1" x="0.5" y="4.5" width="19" height="8"></rect>
+                        </g>
+                        <g id="Rectangle-14">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            <rect stroke="#272536" stroke-width="1" x="0.5" y="12.5" width="19" height="4"></rect>
+                        </g>
+                        <g id="Rectangle-14">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                            <rect stroke="#272536" stroke-width="1" x="0.5" y="16.5" width="19" height="4"></rect>
+                        </g>
+                        <rect id="Rectangle-15" fill="#272536" x="3" y="14" width="5" height="1"></rect>
+                        <rect id="Rectangle-15" fill="#272536" x="9" y="14" width="1" height="1"></rect>
+                        <g id="Rectangle-14">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                            <rect stroke="#272536" stroke-width="1" x="0.5" y="20.5" width="19" height="4"></rect>
+                        </g>
+                        <rect id="Rectangle-15" fill="#272536" x="3" y="22" width="5" height="1"></rect>
+                        <rect id="Rectangle-15" fill="#272536" x="9" y="22" width="1" height="1"></rect>
+                        <rect id="Rectangle-15" fill="#272536" x="5" y="18" width="5" height="1"></rect>
+                        <rect id="Rectangle-15" fill="#272536" x="3" y="18" width="1" height="1"></rect>
+                        <rect id="Rectangle-15" fill="#272536" x="11" y="18" width="2" height="1"></rect>
+                        <g id="Rectangle-7">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-6"></use>
+                            <rect stroke="#272536" stroke-width="1" x="0.5" y="0.5" width="19" height="4"></rect>
+                        </g>
+                        <circle id="Oval-4" fill="#272536" cx="3.5" cy="2.5" r="1"></circle>
+                        <circle id="Oval-4" fill="#272536" cx="3.5" cy="2.5" r="1"></circle>
+                        <circle id="Oval-4" fill="#272536" cx="5.5" cy="2.5" r="1"></circle>
+                        <circle id="Oval-4" fill="#272536" cx="7.5" cy="2.5" r="1"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

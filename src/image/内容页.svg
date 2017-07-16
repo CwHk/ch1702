@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="20px" viewBox="0 0 23 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>内容页</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="23" height="20"></rect>
+        <rect id="path-2" x="12" y="7" width="9" height="7"></rect>
+        <rect id="path-3" x="0" y="0" width="23" height="5"></rect>
+    </defs>
+    <g id="常规发布任务" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="前端_选择工程师级别" transform="translate(-200.000000, -727.000000)">
+            <g id="页面类型" transform="translate(173.000000, 629.000000)">
+                <g id="Group-15" transform="translate(1.000000, 68.000000)">
+                    <g id="内容页" transform="translate(26.000000, 30.000000)">
+                        <g id="Rectangle-7">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <rect stroke="#272536" stroke-width="1" x="0.5" y="0.5" width="22" height="19"></rect>
+                        </g>
+                        <g id="Rectangle-14">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                            <rect stroke="#272536" stroke-width="1" x="12.5" y="7.5" width="8" height="6"></rect>
+                        </g>
+                        <rect id="Rectangle-15" fill="#272536" x="2" y="7" width="8" height="1"></rect>
+                        <rect id="Rectangle-15" fill="#272536" x="2" y="10" width="8" height="1"></rect>
+                        <rect id="Rectangle-15" fill="#272536" x="2" y="13" width="8" height="1"></rect>
+                        <rect id="Rectangle-15" fill="#272536" x="2" y="16" width="19" height="1"></rect>
+                        <g id="Rectangle-7">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            <rect stroke="#272536" stroke-width="1" x="0.5" y="0.5" width="22" height="4"></rect>
+                        </g>
+                        <circle id="Oval-4" fill="#272536" cx="3.5" cy="2.5" r="1"></circle>
+                        <circle id="Oval-4" fill="#272536" cx="3.5" cy="2.5" r="1"></circle>
+                        <circle id="Oval-4" fill="#272536" cx="5.5" cy="2.5" r="1"></circle>
+                        <circle id="Oval-4" fill="#272536" cx="7.5" cy="2.5" r="1"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

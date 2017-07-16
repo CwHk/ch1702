@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>圆加号_亮</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="常规发布任务" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="前端_选择工程师级别" transform="translate(-826.000000, -723.000000)">
+            <g id="页面类型" transform="translate(173.000000, 629.000000)">
+                <g id="Group-15" transform="translate(1.000000, 68.000000)">
+                    <g id="Group-10" transform="translate(535.000000, 22.000000)">
+                        <g id="圆加号_亮" transform="translate(118.000000, 5.000000)">
+                            <circle id="Oval-3" stroke="#727D9C" fill="#FFFFFF" cx="13" cy="13" r="13"></circle>
+                            <text id="+" font-family="FZLTXHK--GBK1-0, Lantinghei SC" font-size="16" font-weight="300" fill="#727D9C">
+                                <tspan x="8" y="18">+</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
