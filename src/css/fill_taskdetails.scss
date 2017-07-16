@@ -344,17 +344,17 @@
     margin-top: 10px;
     width: 260px;
     margin-left: 40px;
-    padding: 20px 20px 0 20px;
+    padding: 0px 20px 0 20px;
     background: #fff;
     box-shadow: 0 0 2px 1px #ececec;
     .side-title {
         border-bottom: 1px solid #EEEEEE;
-        padding-left: 38px;
+        padding-left: 27px;
         color: #3CC8B4;
         font-size: 14px;
         height: 49px;
         line-height: 49px;
-        background: url(../image/费用明细.svg) no-repeat 15px center;
+        background: url(../image/费用明细.svg) no-repeat 2px center;
         background-size: 16px 18px;
     }
     .side-text {
@@ -409,7 +409,7 @@
     overflow: hidden;
     padding: 5px 0;
     .detail {
-        padding-left: 23px;
+        padding-right: 23px;
     }
     .left,
     .right {
@@ -423,5 +423,10 @@
 
 .all {
     line-height: 50px;
-    text-align: center;
+    font-size: 12px;
+    .money {
+        float: right;
+        color: #FF6248;
+        font-size: 14px;
+    }
 }

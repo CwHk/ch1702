@@ -341,17 +341,17 @@
     margin-top: 10px;
     width: 260px;
     margin-left: 40px;
-    padding: 20px 20px 0 20px;
+    padding: 0 20px 0 20px;
     background: #fff;
     box-shadow: 0 0 2px 1px #ececec;
     .side-title {
         border-bottom: 1px solid #EEEEEE;
-        padding-left: 38px;
+        padding-left: 27px;
         color: #3CC8B4;
         font-size: 14px;
         height: 49px;
         line-height: 49px;
-        background: url(../image/费用明细.svg) no-repeat 15px center;
+        background: url(../image/费用明细.svg) no-repeat 2px center;
         background-size: 16px 18px;
     }
     .side-text {
@@ -377,7 +377,6 @@
 .moneylist {
     color: #666666;
     border-bottom: 1px solid #EEEEEE;
-    padding-bottom: 5px;
     .reds {
         color: #FF6248;
         .detailb {
@@ -404,9 +403,9 @@
 
 .item {
     overflow: hidden;
-    padding: 5px 0;
+    padding: 30px 0;
     .detail {
-        padding-left: 23px;
+        padding-right: 23px;
     }
     .left,
     .right {
@@ -420,17 +419,48 @@
 
 .all {
     line-height: 50px;
-    text-align: center;
+    font-size: 12px;
+    .money {
+        float: right;
+        font-size: 14px;
+        color: #FF6248;
+    }
 }
 
 .box-ys {
     margin-top: 30px;
-    padding: 0 32px;
-    span {
+    padding: 32px 0;
+    border-bottom: 1px solid #979797;
+    .ys {
         float: left;
         display: block;
         width: 270px;
-        line-ehight: 36px;
+        line-height: 36px;
     }
-    .inputBox {}
+    .inputBox {
+        height: 36px;
+        width: 430px;
+        position: relative;
+        margin-left: 270px;
+        position: relative;
+        .money {
+            position: absolute;
+            right: 0;
+            top: 0;
+            display: block;
+            width: 40px;
+            height: 36px;
+            line-height: 36px;
+            text-align: center;
+            color: #000;
+            border-left: 1px solid #eaeaea;
+        }
+        input {
+            height: 36px;
+            width: 430px;
+            background: #f8f8f8;
+            border-radius: 4px;
+            border: 1px solid #d9d9d9;
+        }
+    }
 }
