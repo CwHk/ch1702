@@ -21,6 +21,12 @@ $(function(){
 	    } else {
 	        $(this).addClass("checkboxed")
 	    }
+	    var flag = $(this).parents('.tab-detail').find('.score:last span').hasClass("checkboxed");
+	    if(flag){
+	    	$('.bott-box').show();
+	    }else{
+	    	$('.bott-box').hide();
+	    }
     })
     $('.score').mouseover(function() {
         $(this).find('.alert-message').show()
