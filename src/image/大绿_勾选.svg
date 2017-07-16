@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>大绿_勾选</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="常规发布任务" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="前端_选择工程师级别" transform="translate(-812.000000, -294.000000)">
+            <g id="人员要求" transform="translate(173.000000, 190.000000)">
+                <g id="Group-6" transform="translate(0.000000, 75.000000)">
+                    <g id="大绿_勾选" transform="translate(640.000000, 30.000000)">
+                        <circle id="Oval-2" stroke="#EDEDED" fill="#FFFFFF" cx="15" cy="15" r="15"></circle>
+                        <circle id="Oval-2" fill="#3CC8B4" cx="15" cy="15" r="12"></circle>
+                        <polygon id="Page-1" fill="#FFFFFF" points="21.6362394 10 13.4543591 18.1817949 8.90905985 13.6364956 8 14.5455555 12.5452993 19.0909401 13.4543591 20 14.3635044 19.0909401 22.5452993 10.9090599"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
