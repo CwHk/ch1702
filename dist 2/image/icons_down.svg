@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="17px" height="10px" viewBox="0 0 17 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>C454607F-D528-4C7F-96F2-4D0AE6DD247B</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="8.49174774 9.999375 0 9.999375 0 0 8.49174774 0 16.9834955 0 16.9834955 9.999375 8.49174774 9.999375"></polygon>
+    </defs>
+    <g id="资料" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="资料_基本设置" transform="translate(-948.000000, -401.000000)">
+            <g id="Group-2" transform="translate(220.000000, 87.000000)">
+                <g id="性别" transform="translate(610.000000, 271.000000)">
+                    <g id="Page-1" transform="translate(118.000000, 43.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M0.311937561,0.347929688 L0.324749756,0.339960938 C0.515730244,0.13 0.783293659,0 1.08050341,0 L15.9025132,0 C16.2060668,0 16.475579,0.13796875 16.6686327,0.351875 L16.6729863,0.347929688 C17.0869985,0.781875 17.0869985,1.48574219 16.6729863,1.91972656 L9.24601805,9.67242187 C8.83204732,10.1083594 8.16133512,10.1083594 7.74753024,9.67242187 L7.72207171,9.63042969 L0.311937561,1.91972656 C-0.103981951,1.48574219 -0.103981951,0.781875 0.311937561,0.347929688" id="Fill-1" fill="#272636" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

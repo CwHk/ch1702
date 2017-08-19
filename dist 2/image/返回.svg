@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="13px" viewBox="0 0 15 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>返回</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="常规发布任务" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="发布任务_前端" transform="translate(-173.000000, -948.000000)" fill="#666666">
+            <g id="Group">
+                <g id="Group-4" transform="translate(173.000000, 884.000000)">
+                    <path d="M9.44815933,66.4028449 L6.49019231,66.4028449 L6.49019231,64 L0,67.2450962 L6.49019231,70.4901923 L6.49019231,68.0928891 L9.69311962,68.0928891 C12.2284457,68.0928891 13.495849,69.1548167 13.495849,71.2785852 C13.495849,73.4758678 12.1862769,74.5743359 9.5665265,74.5743359 L2.09657959,74.5743359 L2.09657959,76.2642936 L9.64255164,76.2642936 C13.2140884,76.2642936 14.9999,74.6559028 14.9999,71.4392078 C14.9999,68.0818057 13.149493,66.4028449 9.44815933,66.4028449" id="返回"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

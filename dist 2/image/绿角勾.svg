@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>绿角勾</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="常规发布任务" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="接口对接_填写任务详情" transform="translate(-559.000000, -366.000000)">
+            <g id="Group">
+                <g id="Group-6" transform="translate(173.000000, 190.000000)">
+                    <g id="移动端" transform="translate(270.000000, 45.000000)">
+                        <g id="绿角勾" transform="translate(119.000000, 134.000000)">
+                            <path d="M16,-2.63545071 L16,14 L16,14 C16,15.1045695 15.1045695,16 14,16 L-2.63545071,16 L16,-2.63545071 Z" id="Rectangle-7" fill="#3CC8B4"></path>
+                            <polygon id="Page-1" fill="#FFFFFF" points="14.1817436 7 9.27261547 11.9090769 6.54543591 9.18189738 6 9.72733329 8.72717956 12.4545641 9.27261547 13 9.81810262 12.4545641 14.7271796 7.54543591"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
